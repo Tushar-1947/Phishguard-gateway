@@ -1,0 +1,13 @@
+From: Priya Sharma <priya@example.com>
+To: team@example.com
+Subject: Meeting notes from Tuesday
+Message-ID: <notes-2201@example.com>
+Date: Tue, 10 Nov 2026 11:00:00 +0000
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi team, here are the notes from our meeting. We agreed to finish the design =
+review by Thursday and start implementation next week. Details: https://docs.=
+example.com/notes/2201
